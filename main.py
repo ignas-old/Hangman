@@ -51,4 +51,4 @@ def hangman(word):
 
 
 
-hangman("Fucking")
+hangman("House")
